@@ -1,2 +1,2 @@
 # Word-Count
-Counts the words in a text
+Counts the word in submitted text

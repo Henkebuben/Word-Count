@@ -1,0 +1,12 @@
+:root {
+    /* Fonts*/
+    --primary-font: "Poppins", sans-serif;
+    --secondary-font: "Roboto", sans-serif;
+
+    /* Theme colors */
+    --primary-background-color: #FFF;
+    --secondary-background-color: #EEE;
+    --primary-color: #000;
+    --secondary-color: #333;
+    
+}
